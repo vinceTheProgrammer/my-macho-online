@@ -1,1 +1,0 @@
-{"version":3,"file":"ready.d.ts","sourceRoot":"","sources":["../../src/listeners/ready.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AAC/C,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,YAAY,CAAC;AAEzC,qBAAa,aAAc,SAAQ,QAAQ;IACnC,GAAG,CAAC,MAAM,EAAE,MAAM;CAIzB"}

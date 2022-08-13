@@ -1,7 +1,7 @@
 {
   "name": "my-macho-online",
   "version": "1.0.0",
-  "main": "build/index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/vinceTheProgrammer/my-macho-online.git",
   "engines": {
     "node": "16.x"
@@ -11,8 +11,8 @@
     "watch": "tsc -w",
     "postinstall": "tsc",
     "test": "jest",
-    "start": "node build/index.js",
-    "watch:start": "tsc-watch --onSuccess \"node ./build/index.js\"",
+    "start": "node dist/index.js",
+    "watch:start": "tsc-watch --onSuccess \"node ./dist/index.js\"",
     "format": "prettier --write \"src/**/*.ts\"",
     "commit": "commit",
     "release": "standard-version"
